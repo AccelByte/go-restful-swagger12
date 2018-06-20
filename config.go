@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"reflect"
 
-	"github.com/emicklei/go-restful"
+	"github.com/AccelByte/go-restful"
 )
 
 // PostBuildDeclarationMapFunc can be used to modify the api declaration map.
